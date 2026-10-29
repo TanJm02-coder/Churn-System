@@ -1,0 +1,31 @@
+{
+  "source": "OpenML",
+  "data_id": 42178,
+  "openml_version": 1,
+  "n_rows": 7043,
+  "n_cols": 20,
+  "columns": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges",
+    "Churn"
+  ],
+  "sha256": "b79281acebf7351c501cfa05ba3e13780d5b7eb7e37219290b63989bca1c74aa",
+  "downloaded_at_utc": "2026-10-28T19:09:12.524417+00:00"
+}
